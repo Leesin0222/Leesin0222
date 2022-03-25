@@ -4,5 +4,5 @@
 
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesin0222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesin0222&layout=compact)](https://github.com/leesin0222/github-readme-stats)
 </p>
