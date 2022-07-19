@@ -1,4 +1,6 @@
-## I'd rather have a 💯-point personality than a 💯-point code
+# 💯점짜리 코드보다 💯점짜리 인성을
 
-#### I am a sophomore at Daedeok Software Meister High School in Korea 🇰🇷. I am an Android app developer📱 and mainly develop Android apps with Kotlin🔥
+## 저는 대덕 소프트웨어 마이스터 고등학교 2학년 🇰🇷입니다. Android 앱 개발자📱이며 주로 Kotlin🔥로 Android 앱을 개발합니다.
+
+https://yongjincompany.notion.site/LeeYongJin-Feel-73a3e54bc3d34725906b1f62a2f571af <- 포트폴리오입니다!
 
